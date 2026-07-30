@@ -5,8 +5,6 @@
 - 🤔 I’m looking for help with React
 - 📫 How to reach me: Please contact me at amirahhamidi08@gmail.com
 - ⚡ Fun fact: I'm a neurodivergent, a passionate cat enthusiast, and I love collecting keebs!
-  
-  ![Mira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmiraHamidi&theme=buefy&show_icons=true)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amirahamidi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirah-hamidi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@amirahamidi_) 
